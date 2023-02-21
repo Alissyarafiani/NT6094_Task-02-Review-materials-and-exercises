@@ -1,1 +1,5 @@
-# NT6094_Task-02-Review-materials-and-exercises
+# Pengumpulan Task 02: Review materials and exercises
+Teknik Penulisan Jurnal Ilmiah 
+Nama: Alissya Rafiani
+NIM: 28722305
+Kelas: NT6094 
